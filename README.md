@@ -34,7 +34,7 @@ A microservices-based backend application for managing hospital operations, buil
 
 ---
 
-## Technologies Used
+## Technologies Used:
 
 - **Backend**: Spring Boot (Java)
 - **API Documentation**: Swagger
